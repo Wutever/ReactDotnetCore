@@ -29,6 +29,7 @@ project.lock.json
 .DS_Store
 *.pyc
 nupkg/
+ wwwroot/dist
 
 # Visual Studio Code
 .vscode
